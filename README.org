@@ -1,0 +1,26 @@
+#+TITLE: memento-moji
+
+A memento mori with emojis
+
+100 Blocks a Day
+idea stolen from: http://waitbutwhy.com/2016/10/100-blocks-day.html
+
+Most people sleep about seven or eight hours a night.
+That leaves 16 or 17 hours awake each day. Or about 1,000 minutes.
+
+Let’s think about those 1,000 minutes as 100 10-minute blocks.
+That’s what you wake up with every day.
+
+(assumption: time awake = 7-23 o'clock)
+
+* usage:
+#+begin_src sh
+./memento_moji.py         # emoji flavor
+./memento_moji.py bloc    # block flavor
+./memento_moji.py circle  # circle flavor
+#+end_src
+
+* preview
+[./img/emoji.png]
+[./img/block.png]
+[./img/circle.png]
