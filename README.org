@@ -1,6 +1,6 @@
 #+TITLE: memento-moji  💀 ⌛️
 
-A memento mori with emojis
+A memento mori with emojis in the shell 🤔
 
 100 Blocks a Day
 idea stolen from: http://waitbutwhy.com/2016/10/100-blocks-day.html
