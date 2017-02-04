@@ -16,11 +16,11 @@ That’s what you wake up with every day.
 * usage:
 #+begin_src sh
 ./memento_moji.py         # emoji flavor
-./memento_moji.py bloc    # block flavor
+./memento_moji.py block   # block flavor
 ./memento_moji.py circle  # circle flavor
 #+end_src
 
 * preview
-[./img/emoji.png]
-[./img/block.png]
-[./img/circle.png]
+[[./img/emoji.png]]
+[[./img/block.png]]
+[[./img/circle.png]]
